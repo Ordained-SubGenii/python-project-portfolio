@@ -340,11 +340,11 @@
         },
         "narwhals": {
             "hashes": [
-                "sha256:5de1f2d7bfbe555573d945fe1d760469a05784f3e69b7bc1b5b1303aae7946a1",
-                "sha256:cdd16f73268a3f0d3327aa9e4c6ab25a0b277629d6710bef58e86f40e57e5cc9"
+                "sha256:a380e64110c3169c4b0b592c5b64ae6dc4cce76e9d3c56edc608a8ae5994cfc1",
+                "sha256:c83a378960651c391e5f3d68af3a821eda74c9713073518fe0c39aefc5ad8f8e"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==1.9.4"
+            "version": "==1.10.0"
         },
         "numpy": {
             "hashes": [
