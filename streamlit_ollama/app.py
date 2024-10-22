@@ -4,7 +4,7 @@ import ollama
 st.title("KbronBot")
 
 if "messages" not in st.session_state:
-    st.session_state["messages"] = [{"role": "assistant", "content": "What do you need Kbron?"}]
+    st.session_state["messages"] = [{"role": "assistant", "content": "Que quieres Kbron?"}]
 
 for msg in st.session_state.messages:
     if msg["role"] == "user":
